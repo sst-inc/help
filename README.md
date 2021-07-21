@@ -19,7 +19,9 @@ Hello there, welcome to the helpdesk! This is a place where you can ask any ques
 
 3. Not knowing the rules is no excuse.
 
-### I want to ask a question!
+### I have an issue and need help!
+
+0. Search through the discussions to see if someone else already posted a similar issue
 
 1. Create a new discussion (refer to the quick link above)
 
@@ -45,4 +47,8 @@ I expected to see this happen: **explanation**
 Instead, this happened: **explanation**
 ```
 
-Include any files or images that helps describe your issue.
+Include any files or images that helps describe your issue
+
+5. Post your issue
+
+6. Once someone has resolved your issue, remember to mark the reply as the answer, so others that have the same issue know which solution works
