@@ -47,7 +47,7 @@ I expected to see this happen: **explanation**
 Instead, this happened: **explanation**
 ```
 
-Include any files or images that helps describe your issue
+> Note: Include any files or images that helps describe your issue
 
 5. Post your issue
 
