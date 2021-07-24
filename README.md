@@ -1,6 +1,6 @@
 # SST Inc Helpdesk
 
-Hello there, welcome to the helpdesk! This is a place where you can ask any questions you have and get help for your courses.
+Hello there, welcome to the helpdesk! This is a place where you can ask any questions you have and get help for your courses
 
 ## Quick links
 
@@ -54,35 +54,55 @@ Include any files or images that helps describe your issue
 6. Once someone has resolved your issue, remember to mark the reply as the answer, so others that have the same issue know which solution works
 
 ### Why isn't anyone replying to my issue?
+
 #### Don't expect immediate responses
-It will take time for those debugging to respond to questions, don't expect instant responses after submitting your question.
+
+It will take time for your trainers to respond to questions, don't expect instant responses after submitting your questions. Your trainers try their best to help you, give them a bit of time
+
+If your issue is urgent or has not been answered after an hour, you can label it as `urgent`
 
 #### Check if it's a duplicate
-If a similar question already exists, but isn't resolved yet, upvote or reply to it. This can help to prioritise which questions most people have and answer questions quickly.
+
+If a similar question already exists, but isn't resolved yet, upvote or reply to it. This helps to prioritise which questions most people have and answer questions quickly
+
+Avoid asking duplicate questions as much as possible
 
 #### Provide Descriptive Questions
-In order to make it easier for the person on the other end to understand the question, try to provide them with the necessary information such as...
+
+In order to make it easier your trainer to understand the question, try to provide them with the necessary. Here are some pointers you can keep in mind:
+
 - What have you done it resolve it?
+
 - Any screenshots/screen recordings?
+
 - What change did you make that caused the problem? Maybe you clicked a button? Maybe you deleted a file?
+
 - Which lesson is this question from? Or is it while you're experimenting and trying your own things out?
-- Ensure that it's categorised properly, iOS questions should be categorised as iOS, Android questions should be categorised as Android.
 
-#### Send the correct files
-This is especially relevant for iOS/Xcode
+- Ensure that it's categorized properly, iOS questions should be categorised as iOS, Android questions should be categorized as Android. 
+
+#### Send the correct files (iOS only)
+
 1. When attaching from Xcode, go to the parent folder (the folder with the same name as your project name that contains your `.xcodeproj` file and another folder)
+
 2. `control-click` (or right click) on the parent folder then select `Compress`
-3. A `.zip` file will be created. Attach the `.zip` file to your discussion post.
-> Note: It can be a difficult to debug an entire project, if possible, try to isolate the possible files that might be relevant to the question and submit those. This will make it faster for those debugging.
 
-#### Using Third-Party Libraries?
-Please include any links to third-party packages, libraries or extensions you may be using in your question. 
+3. A `.zip` file will be created. Attach the `.zip` file to your discussion post
 
-Saying things like this can be very hard for those trying to resolve the question to understand it.
+> Note: It can be a difficult to debug an entire project, if possible, try to isolate the possible files that might be relevant to the question and submit those. This will make it faster for those debugging
+
+#### Are you using third-party libraries?
+
+Please include any links to third-party packages, libraries or extensions you may be using in your project
+
+Instead of writing this in your description:
+
 ```
 I am using VeryGreatApi to create an animation 
 ```
-Instead, use something like this, where those working to resolve the question can look into it and understand what packages you may be using
+
+Include the links to VeryGreatApi so your trainers can look into it and have a better idea on how to assist you
+
 ```
 I am using [VeryGreatApi](https://issteven.xyz) to create an animation 
 ```
